@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/jander25/github-readme-stats">
+<a href="https://github.com/jander25/github-readme-stats&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jander25"&theme=dark />
 </a>
 <a href="https://github.com/jander25/convoychat">
