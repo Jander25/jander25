@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jander25&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jander25/&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jander25&layout=compact&theme=dark)
 
 
 
