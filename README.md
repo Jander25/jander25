@@ -1,6 +1,10 @@
 ### Hello, I'm Jander Gadel!
 Be welcome! 👋
 
+🔭 I am currently working as a level 1 support technician
+
+🌱 I’m currently learning C#, javascript and windows forms
+
 <!--
 **Jander25/jander25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,9 +46,9 @@ Here are some ideas to get you started:
   
   <a href="https://instagram.com/janderGad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://br.linkedin.com/in/jander-gadel-02b5091a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://br.linkedin.com/in/jander-gadel-02b5091a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/jander25/jander25/blod/output/github-contribution-grid-snaker.svg)
 </div>
 
-![Snake animation](https://github.com/Jander25/jander25.git//blob/output/github-contribution-grid-snake.svg)
 
