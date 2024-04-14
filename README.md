@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   
   <img align="center" alt="-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
+<img align="center" alt="Jander-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg">  
+
 </div>
 
 ##
