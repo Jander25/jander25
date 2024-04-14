@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
   <img align="center" alt="Jander-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Jander-MYsql" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)">
+  <img align="center" alt="Jander-MYsql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   
   <img align="center" alt="Ra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
