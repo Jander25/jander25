@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/jander25/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jander25&icon_color=blue&show_icons=true&layout=compact&langs_count=8&title_color:blue&card_width=300&theme=dark"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jander25&icon_color=blue&show_icons=true&layout=compact&langs_count=8&title_color=blue&card_width=300&theme=dark"/>
 </a>
 <a href="https://github.com/jander25/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jander25&layout=compact&langs_count=8&card_width=300&title_color:blue&theme=dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jander25&layout=compact&langs_count=8&card_width=300&title_color=blue&theme=dark" />
 </a>
 
 
