@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/jander25/github-readme-stats&theme=dark">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jander25"&theme=dark />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jander25&theme=dark />
 </a>
 <a href="https://github.com/jander25/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jander25&layout=compact&langs_count=8&card_width=320&theme=dark" />
