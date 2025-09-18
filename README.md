@@ -1,7 +1,7 @@
 ### Hello, I'm Jander Gadel!
 Be welcome! 👋
 
-🔭 I am currently working as a level 1 support technician
+🔭 I am Currently working as a Software Engineering Analyst I at Valid Soluções S.A.
 
 🌱 I’m currently learning C#, javascript and windows forms
 
