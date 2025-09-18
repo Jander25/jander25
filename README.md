@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="Jander-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dotnetcore/dotnetcore-original.svg">  
 
-<img align="center" alt="Jander-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">  
+<img align="center" alt="Jander-postgres" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">  
 
 
 
